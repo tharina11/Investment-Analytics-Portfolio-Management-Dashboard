@@ -21,12 +21,12 @@ https://public.tableau.com/app/profile/tharindu.abeysinghe/viz/InvestmentPortfol
 
 ## Tech Stack
 
-- Python: Data ingestion, cleaning, and analysis (pandas, yfinance, custom financial metric functions)
+- **Python**: Data ingestion, cleaning, and analysis (pandas, yfinance, custom financial metric functions)
 
-- Excel: Portfolio inputs, holdings management, and structured data control
+- **Excel**: Portfolio inputs, holdings management, and structured data control
 
-- Tableau: Interactive dashboards for allocation analysis, valuation monitoring, and performance tracking
+- **Tableau**: Interactive dashboards for allocation analysis, valuation monitoring, and performance tracking
 
-- Financial Data Sources: Yahoo Finance (prices, fundamentals, financial statements)
+- **Financial Data Sources**: Yahoo Finance (prices, fundamentals, financial statements)
 
-- Version Control: Git & GitHub for code management and project documentation
+- **Version Control**: Git & GitHub for code management and project documentation
